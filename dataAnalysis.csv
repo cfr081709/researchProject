@@ -1,0 +1,106 @@
+Ticker,Date,SMA_Trend,EMA_Trend,MACD_Trend,ADX_Trend,RSI_Trend,OBV_Trend
+INTC,2025-12-24,Strong Uptrend,Potential Downtrend,Bearish Momentum,Strong Trend,Oversold,Buying Pressure
+INTC,2025-12-26,Strong Uptrend,Potential Downtrend,Bearish Momentum,Strong Trend,Oversold,Buying Pressure
+INTC,2025-12-29,Strong Uptrend,Potential Downtrend,Bearish Momentum,Strong Trend,Oversold,Buying Pressure
+INTC,2025-12-30,Strong Uptrend,Potential Downtrend,Bearish Momentum,Strong Trend,Oversold,Buying Pressure
+INTC,2025-12-31,Strong Uptrend,Potential Downtrend,Bearish Momentum,Strong Trend,Oversold,Buying Pressure
+SBUX,2025-12-24,Potential Uptrend,Potential Uptrend,Bearish Momentum,Weak/No Trend,Neutral,Selling Pressure
+SBUX,2025-12-26,Potential Uptrend,Potential Uptrend,Bearish Momentum,Weak/No Trend,Neutral,Selling Pressure
+SBUX,2025-12-29,Potential Uptrend,Potential Uptrend,Bearish Momentum,Weak/No Trend,Neutral,Selling Pressure
+SBUX,2025-12-30,Potential Uptrend,Potential Uptrend,Bearish Momentum,Weak/No Trend,Neutral,Selling Pressure
+SBUX,2025-12-31,Potential Uptrend,Potential Uptrend,Bearish Momentum,Weak/No Trend,Neutral,Selling Pressure
+AMZN,2025-12-24,Potential Downtrend,Potential Downtrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+AMZN,2025-12-26,Potential Downtrend,Potential Downtrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+AMZN,2025-12-29,Potential Downtrend,Strong Uptrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+AMZN,2025-12-30,Potential Downtrend,Strong Uptrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+AMZN,2025-12-31,Potential Downtrend,Strong Uptrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+AAPL,2025-12-24,Strong Uptrend,Strong Uptrend,Bearish Momentum,Strong Trend,Neutral,Buying Pressure
+AAPL,2025-12-26,Strong Uptrend,Strong Uptrend,Bearish Momentum,Strong Trend,Neutral,Buying Pressure
+AAPL,2025-12-29,Strong Uptrend,Strong Uptrend,Bearish Momentum,Strong Trend,Neutral,Buying Pressure
+AAPL,2025-12-30,Strong Uptrend,Strong Uptrend,Bearish Momentum,Strong Trend,Neutral,Buying Pressure
+AAPL,2025-12-31,Strong Uptrend,Potential Downtrend,Bearish Momentum,Strong Trend,Neutral,Buying Pressure
+NVDA,2025-12-24,Potential Downtrend,Potential Downtrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+NVDA,2025-12-26,Potential Downtrend,Strong Uptrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+NVDA,2025-12-29,Potential Downtrend,Strong Uptrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+NVDA,2025-12-30,Potential Downtrend,Strong Uptrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+NVDA,2025-12-31,Potential Downtrend,Strong Uptrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+BRK-B,2025-12-24,Sideways/Unclear Trend,Strong Uptrend,Bearish Momentum,Strong Trend,Neutral,Buying Pressure
+BRK-B,2025-12-26,Sideways/Unclear Trend,Potential Downtrend,Bearish Momentum,Strong Trend,Neutral,Buying Pressure
+BRK-B,2025-12-29,Sideways/Unclear Trend,Strong Uptrend,Bearish Momentum,Weak Trend,Neutral,Buying Pressure
+BRK-B,2025-12-30,Sideways/Unclear Trend,Strong Uptrend,Bullish Momentum,Weak Trend,Neutral,Buying Pressure
+BRK-B,2025-12-31,Sideways/Unclear Trend,Strong Uptrend,Bullish Momentum,Weak Trend,Neutral,Buying Pressure
+ORCL,2025-12-24,Sideways/Unclear Trend,Potential Downtrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+ORCL,2025-12-26,Sideways/Unclear Trend,Potential Downtrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+ORCL,2025-12-29,Sideways/Unclear Trend,Potential Downtrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+ORCL,2025-12-30,Sideways/Unclear Trend,Potential Downtrend,Bullish Momentum,Weak Trend,Neutral,Buying Pressure
+ORCL,2025-12-31,Sideways/Unclear Trend,Potential Downtrend,Bullish Momentum,Weak Trend,Neutral,Buying Pressure
+WMT,2025-12-24,Strong Uptrend,Strong Uptrend,Bearish Momentum,Strong Trend,Neutral,Buying Pressure
+WMT,2025-12-26,Strong Uptrend,Strong Uptrend,Bearish Momentum,Strong Trend,Neutral,Buying Pressure
+WMT,2025-12-29,Strong Uptrend,Strong Uptrend,Bearish Momentum,Strong Trend,Neutral,Buying Pressure
+WMT,2025-12-30,Strong Uptrend,Strong Uptrend,Bearish Momentum,Strong Trend,Neutral,Buying Pressure
+WMT,2025-12-31,Strong Uptrend,Strong Uptrend,Bearish Momentum,Strong Trend,Neutral,Buying Pressure
+COST,2025-12-24,Strong Downtrend,Strong Downtrend,Bearish Momentum,Strong Trend,Neutral,Buying Pressure
+COST,2025-12-26,Strong Downtrend,Strong Downtrend,Bullish Momentum,Strong Trend,Neutral,Buying Pressure
+COST,2025-12-29,Strong Downtrend,Strong Downtrend,Bullish Momentum,Strong Trend,Neutral,Buying Pressure
+COST,2025-12-30,Strong Downtrend,Strong Downtrend,Bullish Momentum,Strong Trend,Neutral,Buying Pressure
+COST,2025-12-31,Strong Downtrend,Strong Downtrend,Bullish Momentum,Strong Trend,Neutral,Buying Pressure
+JNJ,2025-12-24,Strong Uptrend,Strong Uptrend,Bearish Momentum,Weak Trend,Neutral,Buying Pressure
+JNJ,2025-12-26,Strong Uptrend,Strong Uptrend,Bearish Momentum,Weak Trend,Neutral,Buying Pressure
+JNJ,2025-12-29,Strong Uptrend,Strong Uptrend,Bearish Momentum,Weak Trend,Neutral,Buying Pressure
+JNJ,2025-12-30,Strong Uptrend,Strong Uptrend,Bearish Momentum,Weak Trend,Neutral,Buying Pressure
+JNJ,2025-12-31,Strong Uptrend,Strong Uptrend,Bearish Momentum,Weak Trend,Neutral,Buying Pressure
+PFE,2025-12-24,Strong Uptrend,Strong Uptrend,Bearish Momentum,Weak/No Trend,Neutral,Selling Pressure
+PFE,2025-12-26,Strong Uptrend,Potential Downtrend,Bearish Momentum,Weak/No Trend,Neutral,Selling Pressure
+PFE,2025-12-29,Strong Uptrend,Potential Downtrend,Bearish Momentum,Weak/No Trend,Neutral,Selling Pressure
+PFE,2025-12-30,Strong Uptrend,Potential Downtrend,Bearish Momentum,Weak/No Trend,Neutral,Selling Pressure
+PFE,2025-12-31,Strong Uptrend,Potential Downtrend,Bearish Momentum,Weak/No Trend,Neutral,Selling Pressure
+JPM,2025-12-24,Strong Uptrend,Strong Uptrend,Bullish Momentum,Weak/No Trend,Neutral,Selling Pressure
+JPM,2025-12-26,Strong Uptrend,Strong Uptrend,Bullish Momentum,Weak/No Trend,Neutral,Selling Pressure
+JPM,2025-12-29,Strong Uptrend,Strong Uptrend,Bullish Momentum,Weak/No Trend,Neutral,Selling Pressure
+JPM,2025-12-30,Strong Uptrend,Strong Uptrend,Bullish Momentum,Weak/No Trend,Overbought,Selling Pressure
+JPM,2025-12-31,Strong Uptrend,Strong Uptrend,Bullish Momentum,Weak/No Trend,Neutral,Selling Pressure
+GS,2025-12-24,Strong Uptrend,Strong Uptrend,Bullish Momentum,Very Strong Trend,Overbought,Selling Pressure
+GS,2025-12-26,Strong Uptrend,Strong Uptrend,Bullish Momentum,Very Strong Trend,Neutral,Selling Pressure
+GS,2025-12-29,Strong Uptrend,Strong Uptrend,Bearish Momentum,Very Strong Trend,Neutral,Selling Pressure
+GS,2025-12-30,Strong Uptrend,Strong Uptrend,Bearish Momentum,Very Strong Trend,Neutral,Selling Pressure
+GS,2025-12-31,Strong Uptrend,Strong Uptrend,Bearish Momentum,Very Strong Trend,Neutral,Selling Pressure
+GIS,2025-12-24,Strong Downtrend,Potential Uptrend,Bullish Momentum,Weak Trend,Neutral,Buying Pressure
+GIS,2025-12-26,Strong Downtrend,Potential Uptrend,Bullish Momentum,Weak Trend,Neutral,Buying Pressure
+GIS,2025-12-29,Strong Downtrend,Potential Uptrend,Bullish Momentum,Weak Trend,Neutral,Buying Pressure
+GIS,2025-12-30,Strong Downtrend,Strong Downtrend,Bearish Momentum,Weak Trend,Neutral,Buying Pressure
+GIS,2025-12-31,Strong Downtrend,Strong Downtrend,Bearish Momentum,Weak Trend,Neutral,Buying Pressure
+FDX,2025-12-24,Strong Uptrend,Strong Uptrend,Bullish Momentum,Weak Trend,Overbought,Buying Pressure
+FDX,2025-12-26,Strong Uptrend,Strong Uptrend,Bullish Momentum,Weak Trend,Overbought,Buying Pressure
+FDX,2025-12-29,Strong Uptrend,Strong Uptrend,Bullish Momentum,Weak Trend,Overbought,Buying Pressure
+FDX,2025-12-30,Strong Uptrend,Strong Uptrend,Bullish Momentum,Weak/No Trend,Overbought,Buying Pressure
+FDX,2025-12-31,Strong Uptrend,Strong Uptrend,Bearish Momentum,Weak/No Trend,Neutral,Buying Pressure
+T,2025-12-24,Strong Downtrend,Strong Downtrend,Bullish Momentum,Strong Trend,Neutral,Buying Pressure
+T,2025-12-26,Strong Downtrend,Strong Downtrend,Bullish Momentum,Strong Trend,Neutral,Buying Pressure
+T,2025-12-29,Strong Downtrend,Strong Downtrend,Bullish Momentum,Strong Trend,Neutral,Buying Pressure
+T,2025-12-30,Strong Downtrend,Strong Downtrend,Bullish Momentum,Strong Trend,Neutral,Buying Pressure
+T,2025-12-31,Strong Downtrend,Strong Downtrend,Bullish Momentum,Strong Trend,Neutral,Buying Pressure
+BAC,2025-12-24,Strong Uptrend,Strong Uptrend,Bullish Momentum,Strong Trend,Overbought,Buying Pressure
+BAC,2025-12-26,Strong Uptrend,Strong Uptrend,Bullish Momentum,Strong Trend,Overbought,Buying Pressure
+BAC,2025-12-29,Strong Uptrend,Strong Uptrend,Bullish Momentum,Strong Trend,Neutral,Buying Pressure
+BAC,2025-12-30,Strong Uptrend,Strong Uptrend,Bullish Momentum,Strong Trend,Neutral,Buying Pressure
+BAC,2025-12-31,Strong Uptrend,Strong Uptrend,Bearish Momentum,Strong Trend,Neutral,Buying Pressure
+XOM,2025-12-24,Strong Uptrend,Strong Uptrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+XOM,2025-12-26,Strong Uptrend,Strong Uptrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+XOM,2025-12-29,Strong Uptrend,Strong Uptrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+XOM,2025-12-30,Strong Uptrend,Strong Uptrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+XOM,2025-12-31,Strong Uptrend,Strong Uptrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+CVX,2025-12-24,Sideways/Unclear Trend,Potential Downtrend,Bullish Momentum,Weak Trend,Neutral,Buying Pressure
+CVX,2025-12-26,Sideways/Unclear Trend,Potential Downtrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+CVX,2025-12-29,Sideways/Unclear Trend,Potential Downtrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+CVX,2025-12-30,Sideways/Unclear Trend,Potential Downtrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+CVX,2025-12-31,Sideways/Unclear Trend,Strong Uptrend,Bullish Momentum,Weak/No Trend,Neutral,Buying Pressure
+BA,2025-12-24,Potential Uptrend,Strong Uptrend,Bullish Momentum,Very Strong Trend,Overbought,Buying Pressure
+BA,2025-12-26,Potential Uptrend,Strong Uptrend,Bullish Momentum,Very Strong Trend,Overbought,Buying Pressure
+BA,2025-12-29,Potential Uptrend,Strong Uptrend,Bullish Momentum,Very Strong Trend,Neutral,Buying Pressure
+BA,2025-12-30,Potential Uptrend,Strong Uptrend,Bullish Momentum,Very Strong Trend,Overbought,Buying Pressure
+BA,2025-12-31,Potential Uptrend,Strong Uptrend,Bullish Momentum,Very Strong Trend,Overbought,Buying Pressure
+MCD,2025-12-24,Strong Uptrend,Strong Uptrend,Bearish Momentum,Weak Trend,Neutral,Buying Pressure
+MCD,2025-12-26,Strong Uptrend,Strong Uptrend,Bearish Momentum,Weak Trend,Neutral,Buying Pressure
+MCD,2025-12-29,Strong Uptrend,Strong Uptrend,Bearish Momentum,Weak Trend,Neutral,Buying Pressure
+MCD,2025-12-30,Strong Uptrend,Strong Uptrend,Bearish Momentum,Weak Trend,Neutral,Buying Pressure
+MCD,2025-12-31,Strong Uptrend,Strong Uptrend,Bearish Momentum,Weak Trend,Neutral,Buying Pressure
